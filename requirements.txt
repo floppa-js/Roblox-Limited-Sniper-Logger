@@ -1,0 +1,6 @@
+discord
+aiohttp
+asyncio
+os
+requests
+threading
